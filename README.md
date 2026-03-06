@@ -13,7 +13,7 @@ This application allows users to maintain digital diary entries while integratin
 The goal of this project is to demonstrate how AI and Natural Language Processing can be integrated into a real-world application that interacts with personal data.
 
 ## Key Features
-Diary Entry Management
+### Diary Entry Management
 
 Store daily diary entries
 
@@ -25,12 +25,12 @@ Mood
 
 Diary text
 
-Voice-to-Text Input
+### Voice-to-Text Input
 
 Users can record their experiences through voice input.
 Speech is converted to text using a speech recognition model.
 
-Sentiment Analysis
+### Sentiment Analysis
 
 The system analyzes diary entries to detect emotional tone, such as:
 
@@ -40,7 +40,7 @@ Neutral
 
 Negative
 
-Question Answering from Diary
+### Question Answering from Diary
 
 Users can ask questions about their past entries.
 
@@ -52,7 +52,7 @@ Example questions:
 
 The system retrieves relevant entries and generates answers using a Retrieval-Augmented Generation approach.
 
-Intelligent Memory Retrieval
+### Intelligent Memory Retrieval
 
 Natural Language Processing models are used to locate the most relevant diary entries based on user queries.
 
@@ -77,3 +77,13 @@ Natural Language Processing
 4.When the user asks a question, the system retrieves relevant entries.
 
 5.The model generates an answer based on the retrieved information.
+
+
+OrmaAI-a-digital-diary
+│
+├── app.py
+├── requirements.txt
+├── templates/
+├── static/
+├── demo_video.mp4
+└── README.md
