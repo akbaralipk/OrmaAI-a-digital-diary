@@ -79,11 +79,19 @@ Natural Language Processing
 5.The model generates an answer based on the retrieved information.
 
 
-OrmaAI-a-digital-diary
+OrmaAI-a-digital-diary     
+
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── templates/
+
 ├── static/
+
 ├── demo_video.mp4
+
 └── README.md
+
