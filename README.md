@@ -1,18 +1,18 @@
 
-OrmaAI – AI Powered Digital Diary
+# OrmaAI – AI Powered Digital Diary
 
 OrmaAI is an AI-powered digital diary that goes beyond traditional journaling.
 Instead of simply storing memories, the system can analyze, understand, and interact with past experiences using Artificial Intelligence.
 
 Users can write or speak their daily experiences, and the system processes those entries to provide insights and intelligent responses.
 
-Project Overview
+## Project Overview
 
 This application allows users to maintain digital diary entries while integrating several AI-based capabilities such as speech recognition, sentiment analysis, and question answering from stored memories.
 
 The goal of this project is to demonstrate how AI and Natural Language Processing can be integrated into a real-world application that interacts with personal data.
 
-Key Features
+## Key Features
 Diary Entry Management
 
 Store daily diary entries
@@ -56,7 +56,7 @@ Intelligent Memory Retrieval
 
 Natural Language Processing models are used to locate the most relevant diary entries based on user queries.
 
-Technologies Used
+## Technologies Used
 
 Python
 Flask (Backend framework)
@@ -66,7 +66,7 @@ SQLite Database
 Retrieval-Augmented Generation (RAG)
 Natural Language Processing
 
-System Workflow
+## System Workflow
 
 1.User writes or records a diary entry.
 
